@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Updatable Userscript
 // @namespace    https://github.com/hepokon365/updatable_userscript
-// @version      1.0.0
+// @version      1.1.0
 // @description  updatable userscript sample.
 // @author       hepokon365
 // @match        https://example.com/
@@ -12,5 +12,5 @@
 // ==/UserScript==
 
 (() => {
-  console.log('v1.0.0');
+  console.log('v1.1.0');
 })();
